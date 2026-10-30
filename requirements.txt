@@ -1,0 +1,13 @@
+matplotlib
+names
+nltk
+numpy<2
+pyarrow
+pandas
+scikit-learn
+spacy
+tensorflow
+textblob
+snorkel
+torch
+ipykernel
