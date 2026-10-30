@@ -113,5 +113,3 @@ Test set F1 (baseline model): 100%. Per-slice F1 for the slice-aware model:
 
 The `hinglish` slice is the weakest meaningful slice, which shows how slicing functions expose subsets where the model underperforms even when the overall score looks good.
 
-# Author
-Hiral Rana ([@HiralR2931](https://github.com/HiralR2931))
